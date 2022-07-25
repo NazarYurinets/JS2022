@@ -46,7 +46,7 @@
 //     console.log(typeof b);8
 //     let c = true;
 //     console.log(typeof c);
-//
+//d
 //dfff
 // // - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 // let firstName = "Nazar";
