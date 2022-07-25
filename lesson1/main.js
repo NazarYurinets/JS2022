@@ -47,7 +47,7 @@
 //     let c = true;
 //     console.log(typeof c);
 //
-//
+//dfff
 // // - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 // let firstName = "Nazar";
 // let middleName = "Tarasovich";
