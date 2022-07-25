@@ -55,3 +55,7 @@
 // prompt(firstName);
 // prompt(middleName);
 // prompt(age);
+let name = prompt(`Ваше імя`);
+let mName = prompt(`Ваше імя по-батькові`);
+let age = prompt('Скільки вам років?');
+console.log(name + ` ` + mName + ` `+ age );
