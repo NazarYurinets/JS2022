@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec028ea-e5ab-4a63-a9d8-dbe2d068bedc" name="Changes" comment="js">
+    <list default="true" id="3ec028ea-e5ab-4a63-a9d8-dbe2d068bedc" name="Changes" comment="Fix">
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
     </list>
@@ -61,7 +63,8 @@
       <workItem from="1658489374622" duration="2355000" />
       <workItem from="1658660540206" duration="1966000" />
       <workItem from="1658742652526" duration="4000" />
-      <workItem from="1658742680193" duration="1463000" />
+      <workItem from="1658742680193" duration="2262000" />
+      <workItem from="1658829704937" duration="6732000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658742272204</created>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658742811997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix">
+      <created>1658744304815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658744304815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js1" />
     <MESSAGE value="js" />
-    <option name="LAST_COMMIT_MESSAGE" value="js" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
