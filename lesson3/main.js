@@ -102,5 +102,6 @@ if (!x){
     console.log(x);
 }
 
-
+let s = NaN || "default";
+console.log(s)
 
