@@ -198,7 +198,7 @@ let addCar = new Car('audi', 'Germany', 2010, 270, 2.0);
 // }
 // };
 // console.log(found(popelushka,prince));
-//
+//dsf
 //
 // let popelushaFind = popelushka.find((item) => item.size === prince.shoe);
 //
