@@ -1,0 +1,67 @@
+li{
+    font-size: 19px;
+}
+body{
+   background: rgba(255, 248, 248, 0.3);
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1200px;
+}
+.divUsers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+
+
+}
+.divUser{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #373737;
+    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 20px;
+
+}
+button{
+    text-decoration: none;
+    display: inline-block;
+    width: 140px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 45px;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+    transition: .3s;
+}
+button:hover {
+    background: rgba(228, 27, 27, 0.74);
+    box-shadow: 0 15px 20px rgba(255, 38, 38, 0.55);
+    color: white;
+    transform: translateY(-7px);
+}
+
+.postsBtn{
+    width: 33%;
+}
+
+.posts div{
+    padding-left: 3px;
+    font-size: 18px;
+    margin: 10px;
+
+}

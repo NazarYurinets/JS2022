@@ -1,0 +1,17 @@
+
+body{
+    background: #fff7f7;
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1200px;
+
+}
+h1{
+    font-size: 3.5rem;
+}
+
+.divBlock{
+    padding: 5px 15px;
+}
